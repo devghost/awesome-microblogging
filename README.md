@@ -39,6 +39,7 @@
 - **[Bluesky Social](https://blueskyweb.xyz/)** - A decentralized microblogging platform currently in development.
 - **[Substack Notes](https://substack.com/notes)** - A microblogging feature for Substack users.
 - **[Threads by Instagram](https://www.instagram.com/threads/)** - Meta’s microblogging platform for casual sharing.
+- **[Pendictive](https://pendictive.com/)** - A writing platform whose "Leaves" feature adds microblogging alongside long-form stories and journaling.
 
 ## Content Creation Tools
 
